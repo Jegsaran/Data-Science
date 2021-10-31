@@ -19,4 +19,8 @@ print(Counter(listRadish).most_common()[-1])                     #Least frequent
 print([x for x in Counter(listName).most_common() if x[1]>1])    #Multiple entry of name
 oTxtFile.close()
 
+
+
+We are learning python here
+
 #{'april cross': 72, 'champion': 76, 'cherry belle': 58, 'snow belle': 63, 'bunny tail': 72, 'sicily giant': 57, 'plum purple': 57, 'red king': 56, 'daikon': 63, 'white icicle': 65, 'french breakfast': 72})
